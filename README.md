@@ -1,5 +1,6 @@
 # meituan
 ## 对美团pc页面的简单仿写
+## 技术栈： vue全家桶 vue3.0 + axios + elementUI
 
 ## Project setup
 ```
